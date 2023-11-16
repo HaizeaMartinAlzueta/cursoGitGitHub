@@ -6,3 +6,4 @@ otro mas
 probando rebase -i
 probando rebase -i srgundo commit
 1
+cambio desede github
